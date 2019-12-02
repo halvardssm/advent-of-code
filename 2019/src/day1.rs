@@ -1,5 +1,5 @@
 pub fn print() {
-    println!("Hello, world!")
+	println!("Hello, world!")
 }
 
 pub fn bye() {
